@@ -1,6 +1,6 @@
 # GameFinder
 
-Projeto desenvolvido como entrega do Projeto Rubi.
+Projeto desenvolvido como entrega do Projeto Rubi da turma 2TDSPX.
 
 ## Descrição
 
@@ -20,8 +20,10 @@ A aplicação disponibiliza endpoints para consulta de jogos, gêneros e platafo
 - GET /games/genres/{genreId}
 - GET /games/platforms/{platformId}
 
-## Autor
+## Autores
 
 - Lucas Grillo Alcântara
 - RM: 561413
-- Turma: 2TDSPX
+
+- Lucca Ramos Mussumecci
+- RM: 562027
